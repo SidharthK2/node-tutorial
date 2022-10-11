@@ -53,3 +53,8 @@
 20221011	17:55:13	4f1fc8c2-8ad7-4dd6-a28e-7c82eedac153	GET	undefined	/subdir
 20221011	17:55:13	ac0e1cf7-d93c-4839-8aab-241ce1f86688	GET	undefined	/subdir/
 20221011	17:55:17	3a237ef5-d6af-4390-9f04-fde6f374c6c4	GET	undefined	/subdir/test
+20221011	18:11:54	e7bdebae-3517-4ff4-8532-deba37cca6de	GET	undefined	/
+20221011	18:11:54	37e2b961-44c2-4a97-82bb-3efa27f14f9f	GET	undefined	/css/style.css
+20221011	18:12:01	2a4268a6-57d9-464c-acf5-d614600b60e4	GET	undefined	/
+20221011	18:12:19	b8b9f03c-e80b-4e25-86a1-74b0ca46b68a	GET	undefined	/
+20221011	18:12:19	70a4d959-3fcf-4f1a-ad9e-2446a3c47961	GET	undefined	/css/style.css
