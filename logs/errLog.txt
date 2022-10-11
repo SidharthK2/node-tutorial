@@ -1,0 +1,7 @@
+20221011	19:12:18	14ddd271-8c3d-4fa6-ac27-a433306e6207	TypeError: Cannot read properties of undefined (reading 'id')
+20221011	19:43:33	6afe1973-d2f0-4ff8-941b-b75bfc8a6d16	TypeError: data.employees.find is not a function
+20221011	19:44:26	b0c8f03b-0a6d-4a2c-a5a1-6184d496f8c2	TypeError: Cannot read properties of undefined (reading 'id')
+20221011	19:45:28	e568a47a-67ec-4b86-b2e4-771b2ce64cd6	TypeError: data.employees is not iterable
+20221011	19:45:32	5f82d68f-8ce4-4d62-a515-8ca1026d52e8	TypeError: data.employees.find is not a function
+20221011	19:45:38	ec699a1b-4d2b-49a4-b863-634b987ec001	TypeError: data.employees is not iterable
+20221011	19:45:40	706e77b9-bd30-49a2-8f8b-94e5286d90a7	TypeError: data.employees.find is not a function
