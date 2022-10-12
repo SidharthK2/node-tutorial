@@ -5,3 +5,4 @@
 20221011	19:45:32	5f82d68f-8ce4-4d62-a515-8ca1026d52e8	TypeError: data.employees.find is not a function
 20221011	19:45:38	ec699a1b-4d2b-49a4-b863-634b987ec001	TypeError: data.employees is not iterable
 20221011	19:45:40	706e77b9-bd30-49a2-8f8b-94e5286d90a7	TypeError: data.employees.find is not a function
+20221012	20:23:06	8157ca30-69a5-4d52-976b-b57b90b2af5e	ReferenceError: decodedusername is not defined
