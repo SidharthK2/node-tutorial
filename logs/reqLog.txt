@@ -227,3 +227,15 @@
 20221012	21:06:15	fe003276-aecb-47b7-8414-59b70306eefe	GET	undefined	/logout
 20221012	21:06:46	2678fc87-7a41-48f2-8207-8ecdac928249	GET	undefined	/refresh
 20221012	21:07:03	49f14201-cf99-48c7-bdd4-52acbce68046	GET	undefined	/refresh
+20221012	22:12:01	65c092a2-e37b-4517-b0ff-8487e620effa	POST	undefined	/auth
+20221012	22:14:00	49142fdb-5a68-4fde-b00f-a13b0195be3f	POST	undefined	/auth
+20221012	22:14:17	9e64d0c4-b4aa-459d-b138-96ae2e394a32	GET	undefined	/employees
+20221012	22:14:43	ee001aa4-c62d-4669-8307-914f0e0632cf	POST	undefined	/employees
+20221012	22:14:52	bec2b206-cab1-4281-9483-2c14802da7c8	POST	undefined	/auth
+20221012	22:14:58	a2943e1d-ad7e-47bf-8e3a-b07898b8edea	GET	undefined	/employees
+20221012	22:15:03	0e7a76ae-2d65-4acb-bfc1-1c5cd1654541	POST	undefined	/employees
+20221012	22:15:24	715dacea-7490-4f0c-b6de-94c70e9fb7ea	POST	undefined	/auth
+20221012	22:15:34	45bbdeff-0da0-4629-9463-986977f36651	POST	undefined	/employees
+20221012	22:15:50	9d6e5792-b9e9-4969-bfe9-3dc94e110193	DELETE	undefined	/employees
+20221012	22:17:01	267fba51-150d-4178-8a0b-d47e4410aee1	POST	undefined	/auth
+20221012	22:17:10	ece4f1fc-67df-460b-8b62-522360b822a3	DELETE	undefined	/employees
