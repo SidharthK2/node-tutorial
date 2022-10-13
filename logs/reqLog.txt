@@ -239,3 +239,8 @@
 20221012	22:15:50	9d6e5792-b9e9-4969-bfe9-3dc94e110193	DELETE	undefined	/employees
 20221012	22:17:01	267fba51-150d-4178-8a0b-d47e4410aee1	POST	undefined	/auth
 20221012	22:17:10	ece4f1fc-67df-460b-8b62-522360b822a3	DELETE	undefined	/employees
+20221013	12:55:30	9bc430ed-50f4-4874-a29b-651c0b4a1636	GET	undefined	/
+20221013	12:55:30	c3eada5e-7dc3-4003-a5a8-f5fbb1f5214c	GET	undefined	/css/style.css
+20221013	12:55:30	3b74575e-2006-41a6-b0cf-357f6d58e244	GET	undefined	/favicon.ico
+20221013	12:56:11	081c50df-65a2-4065-a78d-275af1921440	POST	undefined	/register
+20221013	12:56:51	a57a910b-1d4b-4422-8fe0-f6c9aa489452	POST	undefined	/register
