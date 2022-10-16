@@ -1,14 +1,13 @@
 const mongoose = require("mongoose");
-const { stringify } = require("uuid");
 const Schema = mongoose.Schema;
 
 const employeeSchema = new Schema({
   firstname: {
-    type: string,
+    type: String,
     required: true,
   },
   lastname: {
-    type: string,
+    type: String,
     required: true,
   },
 });
